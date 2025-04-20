@@ -280,7 +280,7 @@ footer{
     }
 
     .Simple-Omelette-Recipe{
-        margin: 20px;
+        margin-top: 5rem;
         border-radius: 1.5rem;
         width:736px;
         height: 1717px;
@@ -355,6 +355,7 @@ footer{
        .list-content-nutricion{
             width: 480px;
             padding-bottom: .8rem;
+
         }
 
         hr{
