@@ -281,8 +281,8 @@ footer{
     .Simple-Omelette-Recipe{
         margin: 20px;
         border-radius: 1.5rem;
-        width:745px;
-        height: 1730px;
+        width:736px;
+        height: 1717px;
     }
 
     footer{
@@ -300,17 +300,17 @@ footer{
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-top: 2.9rem;
+            margin-top: 2.5rem;
             border-radius: .6rem;
-            width: 661px;
+            width: 656px;
             height: 297px;
         }
 
         .title-Omelette-Recipe{
-         
-            
-           margin-right:17rem;
+            margin-bottom: .3rem;
+            margin-right:17rem;
         }
+            
 
         .content-Preparation-time{
             display: flex;
@@ -342,7 +342,7 @@ footer{
 
         .list-Instructions{
             width: 654px;
-            margin-bottom: .7rem;
+            margin-bottom: .6rem;
             
             
         }
